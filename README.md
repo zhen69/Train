@@ -1,8 +1,8 @@
 # Train
 Created a train as a custom doubly linked list where users can add/remove train cars, update products on a specific train, and display information in various formats.
 
-<u><b>Language Used:</b></u> Java
+<b>Language Used:</b> Java
 
-Concepts: Object-Oriented Programming and data structure (Linked List).
+<b><u>Concepts:</u></b> Object-Oriented Programming and data structure (Linked List).
 
-Restriction: No API classes are allowed besides the Scanner class.
+<b>Restriction:</b> No API classes are allowed besides the Scanner class.
