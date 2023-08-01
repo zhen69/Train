@@ -4,13 +4,6 @@ Created a train as a custom doubly linked list where users can add/remove train 
 <h2>Description</h2>
 
 <br><br>
-<b>Functionalities offered by the Planner:</b>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
 
 <h2>Get Started</h2>
 <h3>Dependencies</h3>
