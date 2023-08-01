@@ -456,10 +456,10 @@ public class TrainLinkedList {
     public void printManifest() {
         StringBuilder header = new StringBuilder();
         header.append(String.format("%-4s%-36s%-34s", " ", "CAR:", "LOAD:")).append("\n").append(
-                String.format("%-6s%-6s%-14s%-13s%-5s%-10s%-13s%-12s%-9s", " ", "Num", "Length (m)",
-                        " Weight (t)", "|", "Name", "Weight (t)", "Value ($)",
-                        "Dangerous")).append("\n").append(" ".repeat(4)).append(
-                                "=".repeat(35)).append("+").append("=".repeat(51)).append("\n");
+                    String.format("%-6s%-6s%-14s%-13s%-5s%-10s%-13s%-12s%-9s", " ", "Num", "Length (m)",
+                    " Weight (t)", "|", "Name", "Weight (t)", "Value ($)",
+                    "Dangerous")).append("\n").append(" ".repeat(4)).append(
+                    "=".repeat(35)).append("+").append("=".repeat(51)).append("\n");
 
 
         if(isEmpty())
