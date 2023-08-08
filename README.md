@@ -19,7 +19,7 @@ Remember when we used to play with trains/cars (toys)? We used to put stuff on c
 <h3>Dependencies</h3>
 <ul>
   <li><a href="https://www.oracle.com/java/technologies/downloads/">Java JDK 15 or Higher</a></li>
-  <li>Text Editor or IDEs.</li>
+  <li>Text Editor or IDEs</li>
   <h4>Recommend:</h4>
   <ul>
     <li>Notepad (Worst Case).</li>
