@@ -1,5 +1,6 @@
 /**
  * The InputMisMatchException class inherits all properties and behaviors of the Exception class.
+ * This exception is thrown when the user does not enter an expected input.
  *
  * @author Zhen Wei Liao
  **/
