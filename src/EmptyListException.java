@@ -1,5 +1,6 @@
 /**
  * The EmptyListException class inherits all properties and behaviors of the Exception class.
+ * This exception is thrown when searching or removing an empty train.
  *
  * @author Zhen Wei Liao
  **/
